@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artworkjpm
 - 👀 I’m interested in ... Front End Dev
-- 🌱 I’m currently learning ... NGRX, rxjs
-- 💞️ I’m looking to collaborate on ... any Angular, React, Vue.js or plain js, ts projects. 
+- 🌱 I’m currently learning ... Vite, Jest, Test Cafe End2End, React-Query for API calls
+- 💞️ I’m looking to collaborate on ... any Angular, React, Vue.js or plain js, ts projects, however React is what I have most experience lately 
 - 📫 How to reach me ... https://jpm.netlify.com
 
 <!---
